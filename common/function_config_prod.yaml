@@ -5,7 +5,6 @@ env_vars: {
   "COGNITE_PROJECT": "cdf-bootcamp-19-prod",
   "COGNITE_TOKEN_URL": "https://login.microsoftonline.com/16e3985b-ebe8-4e24-9da4-933e21a9fc81/oauth2/v2.0/token",
 }
-data_set_id: 3301359359818169
 tenant_id: 16e3985b-ebe8-4e24-9da4-933e21a9fc81
 cdf_cluster: westeurope-1
 cdf_project: cdf-bootcamp-19-prod
